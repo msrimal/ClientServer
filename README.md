@@ -5,7 +5,7 @@
 
 ---
 
-# 📡 Lab5_146: Client–Server File Transfer
+# 📡 Client–Server File Transfer
 
 A C program demonstrating basic client–server communication by transferring a data file over sockets.
 
