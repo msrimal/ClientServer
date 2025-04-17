@@ -1,4 +1,4 @@
-> 🔌 **Lab5_146: Client–Server File Transfer**  
+> 🔌 **Client–Server File Transfer**  
 > A simple C-based client–server application for COEN 146L.  
 > Uses sockets to send a data file (`src1.dat`) from `test_client` to `server`, demonstrating basic network I/O and file handling.  
 > Fully tested with `test_client.c` and sample data.
